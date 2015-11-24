@@ -1,0 +1,37 @@
+// --------------------------------- //
+// Project: smmmDEV
+// Start: Tuesday, November 24, 2015
+// IDE Version: 14.095
+//
+// Gamename: Super Marboy Meat Maker
+// 
+// JEDE GBAS = EIN TYPE ( z.B.: Player.gbas = TPlayer )!
+
+
+
+
+TYPE TGame
+	
+	FUNCTION main:
+	
+		WHILE TRUE
+	
+	
+		SHOWSCREEN
+		WEND
+		END
+		
+	ENDFUNCTION	
+
+ENDTYPE 
+
+GLOBAL GAME AS TGame
+GLOBAL EDITOR AS TEditor
+
+
+
+
+//GAME.main()
+
+EDITOR.main()
+

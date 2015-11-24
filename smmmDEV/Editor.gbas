@@ -1,0 +1,21 @@
+// --------------------------------- //
+// Project: smmmDEV
+// Start: Tuesday, November 24, 2015
+// IDE Version: 14.095
+
+
+TYPE TEditor
+	
+	FUNCTION main:
+		
+		WHILE TRUE 
+		
+		
+		SHOWSCREEN
+		WEND
+		END
+		
+	ENDFUNCTION 
+	
+ENDTYPE 
+
